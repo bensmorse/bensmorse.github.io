@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bensmorse.png"
+  avatar           : "bensmorse_profile.png"
   name             : "Ben Morse"
   pronouns         : # example: "she/her"  
   bio              : "Quantitative Social Scientist | Research Director"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "ben-morse-957a1520"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
