@@ -36,7 +36,7 @@ Blair, R., S. Karim, B. Morse. 2019. "Establishing the Rule of Law in Weak and W
 
 [9]: https://doi.org/10.1017/S0003055419000121
 
-Hartman, A., B. Morse. 2018. "Violence, Empathy, and Altruism: Evidence from the Ivoirian Refugee Crisis in Liberia." [<span style="color:darkblue">*British Journal of Political Science* 50 (2), 731-755][bjpslink]. [<span style="color:darkblue">pdf</span>][bjps2018] 
+Hartman, A., B. Morse. 2018. "Violence, Empathy, and Altruism: Evidence from the Ivoirian Refugee Crisis in Liberia." <span style="color:darkblue">*British Journal of Political Science* 50 (2), 731-755. [<span style="color:darkblue">pdf</span>][bjps2018] 
 
 [bjpslink]: https://www.cambridge.org/core/journals/british-journal-of-political-science/article/violence-empathy-and-altruism-evidence-from-the-ivorian-refugee-crisis-in-liberia/11B4279146383F574AC7E071EA31EC25 
 
