@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my Google Scholar profile.
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=wINYf4kAAAAJ&hl=en).
 
 ## Journal Articles
-
-**Morse, B.** (2024). "Your Paper Title." *Journal Name*, 10(2), 123-145.
 
 Morse, B. 2025. "Strengthening the Rule of Law through Community Policing: Evidence from Liberia." <span style="color:darkblue">*Comparative Political Studies*. </span> [<span style="color:darkblue">pdf</span>][cps2025]
 
