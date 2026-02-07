@@ -54,11 +54,52 @@ Blair, R., Morse, B., Tsai, L. 2016. "Public Health and Public Trust: Survey Evi
 
 ## Book Chapters
 
+Morse, B. "Community Policing, Vigilantism, and the Rule of Law: Evidence from Liberia" in Graeme Blair, Fotini Christia, and Jeremy Weinstein (eds.), [<span style="color:darkblue">*Crime, Insecurity, and Community Policing: Experiments on Building Trust*, Cambridge University Press, 2024.</span>][cup2024]
+
+[cup2024]: https://www.cambridge.org/9781009235877
+
 
 ## Working Papers
 
-**Morse, B.** (2023). "Working Paper Title." Under review.
+
+Morse, B. 2022. "How to Improve Security and Strengthen the Rule of Law in Fragile States? Evidence from a Field Experiment with the Liberian National Police." [<span style="color:darkblue">pdf</span>][SecurityRuleofLawLNP]
+
+[SecurityRuleofLawLNP]: /s/SecurityRuleofLawLiberia.pdf
+
+Morse, B. 2020. "Patrimonial Policing: Police Bias and Access to Justice in Liberia" [<span style="color:darkblue">pdf</span>][policebias]
+
+[policebias]: /s/PatrimonialPolicing.pdf
+
+Morse, B. 2018. "Confirmation Bias and the Catch-22 of State-building: Evidence from the 2014-2015 Ebola Crisis in Liberia." [<span style="color:darkblue">pdf</span>][cbc22sb]
+
+[cbc22sb]: /s/ConfirmationBiasCatch22OfStatebuilding.pdf
+
 
 ## Policy Papers
 
-**Morse, B.** (2022). "Presentation Title." *Conference Name*, Location.
+
+*Machine Learning to Improve the Measurement of Youth Delinquency Risk*. USAID Assessment Report (2021). [<span style="color:darkblue">pdf</span>][yrisc]
+
+[yrisc]: http://www.benmorse.net/s/PA00XS75.pdf
+
+
+*Building Trust and Improving Police Effectiveness: Lessons from Liberia*. Evidence in Governance and Politics (2020). [<span style="color:darkblue">pdf</span>][liberialessons]
+
+[liberialessons]: https://egap.org/resource/building-trust-and-improving-police-effectiveness-lessons-from-liberia/
+
+
+*Building Trust in a Reformed Security Sector: A Field experiment in Rural Liberia*. International Growth Centre (2016). [<span style="color:darkblue">pdf</span>][7]
+
+[7]: http://www.theigc.org/wp-content/uploads/2016/08/Blair-et-al-2016-Policy-Brief-v3.pdf
+
+*Patterns of Trust and Cooperation in the Fight Against Ebola*. International Growth Centre (2015). [<span style="color:darkblue">pdf</span>][patterns]
+
+
+[patterns]: http://www.theigc.org/wp-content/uploads/2015/05/Economic-impacts-of-Ebola-Bulletin-3.pdf
+
+
+*With Open Arms: Impact of Ivorian Refugees on Host Communities in Liberia*. Norwegian Refugee Council (2014). [<span style="color:darkblue">pdf</span>][openarms]
+
+
+[openarms]: http://www.benmorse.net/s/NRC-2014-With-Open-Arms-Liberia.pdf
+
